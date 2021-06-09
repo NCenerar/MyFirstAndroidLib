@@ -1,2 +1,3 @@
 rootProject.name = "MyFirstAndroidLibExample"
 include ':app'
+include ':my-first-android-lib'
